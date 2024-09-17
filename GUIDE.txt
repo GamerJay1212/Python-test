@@ -1,0 +1,2 @@
+Guide - Loads this file and prints the guide
+Google-search <term> - looks up a term
